@@ -15,7 +15,7 @@
  4. after npm init you should have a package.json file
 
  ## Uniswap-SDK
- 1. npm install @uniswap/sdk
+ npm install @uniswap/sdk
 
 Once all of the above is installed you can start working on the index.js file. 
 Currently the code is mainly focused on Uniswap Trading Pairs. 
