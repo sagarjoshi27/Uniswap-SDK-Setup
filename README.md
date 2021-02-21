@@ -1,7 +1,7 @@
 # Uniswap SDK Setup
  Setting up Node and using Uniswap SDK with NodeJs
  
- Medium Article: 
+ Medium Article: https://sagarx27.medium.com/uniswap-trading-pairs-dc7132d3332f
  
  This code is setup to be used with NodeJs.
  
